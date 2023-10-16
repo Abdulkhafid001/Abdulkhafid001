@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdulkhafid001
-- 👀 I’m interested in software development(Websites,Apps,Dapps,Defi)
-- 🌱 I’m currently learning HTML, Phython, Javascript, Css, Bootstrap v4.5, c++, Solidity.
+- 👀 I’m interested in software development using python
+- 🌱 I develop web-applications using python django web framework .
 - 💞️ I’m looking to collaborate on Learning how to create software projects.
 - 📫 How to reach me kabiruabdulkhafid@gmail.com
 
