@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Abdulkhafid001
-- 👀 I’m interested in software development using python
-- 🌱 I develop web-applications using python django web framework .
-- 💞️ I’m looking to collaborate on Learning how to create software projects.
+- 🌱 I develop software.
 - 📫 How to reach me kabiruabdulkhafid@gmail.com
 
 <!---
