@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdulkhafid001
+- 👋 I’m Abdulkhafid001
 - 🌱 I develop software.
 - 📫 How to reach me kabiruabdulkhafid@gmail.com
 
