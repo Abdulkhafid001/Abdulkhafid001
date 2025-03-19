@@ -1,5 +1,5 @@
 - 👋 I’m Abdulkhafid001
-- 🌱 I develop software.
+- 🌱 I develop Websites and Mobile apps primarily using Django and Python.
 - 📫 How to reach me kabiruabdulkhafid@gmail.com
 
 <!---
